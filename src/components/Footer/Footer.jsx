@@ -28,7 +28,7 @@ const Footer = () => {
                 </nav>
             </footer>
             <div className="px-5 pb-10">
-                <p className="text-center text-white text-xs font-extralight">Copyright © {new Date().getFullYear()} - All right reserved by <span className="font-normal">Saif Uddin.</span></p>
+                <p className="text-center text-white text-xs font-extralight">Copyright © {new Date().getFullYear()} - All right reserved by <span className="font-normal">Saima.</span></p>
             </div>
         </div>
     );
